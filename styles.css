@@ -95,7 +95,7 @@ li:hover img {
 
     body {
         background-image: none;
-        background: linear-gradient(50deg, rgb(129, 255, 146),  rgb(147, 255, 255));
+        background: linear-gradient(90deg, rgb(129, 255, 146),  rgb(147, 255, 255));
     }
 
     .container {
